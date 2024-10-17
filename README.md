@@ -1,2 +1,2 @@
-# nadnerb.dev
+# nadnerb
 Ghost theme for nadnerb.dev
